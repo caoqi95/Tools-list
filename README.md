@@ -10,7 +10,7 @@
 + [ipypublish](https://github.com/chrisjsewell/ipypublish)：用 Jupyter Notebook 构建技术报告或展示
 + [麻薯|Markssue](https://chrome.google.com/webstore/detail/%E9%BA%BB%E8%96%AF-markssue/fajpblkjcfoalcnceolkcilnandohhlf)：Github issues 的 markdown 预览工具
 
-### Tools for Learning Skills
+### Tools for Learning Language
 
 + [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words)：程序员工作中常见的英语词汇
 
