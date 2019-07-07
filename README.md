@@ -8,6 +8,7 @@
 + [textlint](https://textlint.github.io/)：文本自动格式化工具
 + [phd_thesis_markdown](https://github.com/tompollard/phd_thesis_markdown)：PhD markdown 论文模板
 + [ipypublish](https://github.com/chrisjsewell/ipypublish)：用 Jupyter Notebook 构建技术报告或展示
++ [麻薯|Markssue](https://chrome.google.com/webstore/detail/%E9%BA%BB%E8%96%AF-markssue/fajpblkjcfoalcnceolkcilnandohhlf)：Github issues 的 markdown 预览工具
 
 ### Tools for Learning Skills
 
