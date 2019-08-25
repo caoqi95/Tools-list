@@ -28,4 +28,8 @@
 
 + [FuckMFS](https://github.com/HiedaNaKan/FuckMFS)：f**k quzheng
 
+### Others
+
++ [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)：解锁网易云变灰歌曲
+
 
