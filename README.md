@@ -28,9 +28,6 @@
 + [Gridea](https://github.com/getgridea/gridea)：一个静态博客写作客户端
 + [VBlog](https://github.com/GitHub-Laziji/VBlog)：使用 GitHub API 搭建一个可动态发布文章的博客
 
-### Tools for Information Security 
-
-+ [FuckMFS](https://github.com/HiedaNaKan/FuckMFS)：f**k quzheng
 
 ### Others
 
