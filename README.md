@@ -22,6 +22,7 @@
 
 + [vsc-netease-music](https://marketplace.visualstudio.com/items?itemName=nondanee.vsc-netease-music)：Visual Studio Code 网易云插件
 + [algorithm-visualizer](https://algorithm-visualizer.org/): 代码算法可视化的在线平台
++ [Git Explore](https://gitexplorer.com/): 帮你快速查找 git 命令
 
 ### Tools for building a Blog
 
